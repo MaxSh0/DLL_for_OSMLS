@@ -114,3 +114,4 @@ C:\Users\mshak_000\source\repos\Module1\Module1\obj\Debug\Module1.csproj.CoreCom
 C:\Users\mshak_000\source\repos\Module1\Module1\obj\Debug\Module1.csproj.CopyComplete
 C:\Users\mshak_000\source\repos\Module1\Module1\obj\Debug\Module1.dll
 C:\Users\mshak_000\source\repos\Module1\Module1\obj\Debug\Module1.pdb
+C:\Users\mshak_000\source\repos\Module1\Module1\obj\Debug\Module1.csprojAssemblyReference.cache
